@@ -1,3 +1,10 @@
+
+# Stencil Note Taking App
+[Demo](https://priceless-leavitt-a22f12.netlify.app/])
+
+Built using Stencil following [Josh Morony's guide](https://www.joshmorony.com/building-a-notepad-application-from-scratch-with-ionic-and-stencil-js/) and updated packages and syntax to the current version (12/22/21).
+
+
 # Ionic PWA Toolkit
 
 The PWA Toolkit is a starting point for building Progressive Web Apps using Ionic and Stencil.
