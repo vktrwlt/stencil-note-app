@@ -1,8 +1,7 @@
 import '@ionic/core';
-// import { setupConfig } from '@ionic/core';
+import { Config } from '@stencil/core';
 
-export default () => {
-  // setupConfig({
-  //   mode: 'ios'
-  // });
+export const config: Config = {
+  globalScript: 'src/global/app.ts',
+  // ...
 };
